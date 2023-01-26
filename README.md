@@ -1,5 +1,5 @@
 # Digital-Whiteboard
-Digital whiteboard from lectures.
+Digital whiteboard used during the Spring 2023 lectures.  
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
